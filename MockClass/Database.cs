@@ -10,5 +10,15 @@ namespace SOLID.MockClass
         {
             
         }
+
+        internal void AnotherExtension ()
+        {
+            throw new NotImplementedException ();
+        }
+
+        internal void AddExistingCustomer ()
+        {
+            throw new NotImplementedException ();
+        }
     }
 }

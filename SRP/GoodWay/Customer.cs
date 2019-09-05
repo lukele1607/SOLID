@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using SOLID.MockClass;
 
 namespace SOLID.SRP.GoodWay
