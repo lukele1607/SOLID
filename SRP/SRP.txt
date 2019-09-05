@@ -1,0 +1,2 @@
+﻿Single Responsibility Principle
+A class should take care of a Single Responsibility
